@@ -1,6 +1,6 @@
 ### Olá, eu sou o Carlos Miguel👋
 
-- 🔭 Sou Estudante do Ensino Médio
+- 🔭 Estudante do Ensino Médio
 - 🙃 Iniciante em Desenvolvimento Web
 - 🌱 Estudando HTML, CSS, JavaScript e Java nas horas vagas
 - 📫 Contato: kacowebber13@outlook.com
