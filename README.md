@@ -1,4 +1,4 @@
-### Oláá, eu sou o Carlos Miguel👋
+### Olá, eu sou o Carlos Miguel👋
 
 - 🔭 Sou Estudante do Ensino Médio
 - 🙃 Iniciante em Desenvolvimento Web
