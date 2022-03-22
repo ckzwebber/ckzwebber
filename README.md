@@ -3,7 +3,7 @@
 - 🔭 Estudante do Ensino Médio
 - 🙃 Iniciante em Desenvolvimento Web
 - 🌱 Estudando HTML, CSS, JavaScript e Java nas horas vagas
-- 📫 Contato: kacowebber13@outlook.com
+- 📫 Contato: kacowebber12@outlook.com
 - 😄 Pronomes: ele/dele
 
 <div align="center">
