@@ -2,7 +2,7 @@
 
 - 🔭 Estudante do Ensino Médio
 - 🙃 Iniciante em Desenvolvimento Web
-- 🌱 Estudando HTML, CSS, JavaScript e Java nas horas vagas
+- 🌱 Estudando HTML, CSS, JavaScript, C e Java nas horas vagas
 - 📫 Contato: kacowebber12@outlook.com
 - 😄 Pronomes: ele/dele
 
