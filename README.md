@@ -1,9 +1,7 @@
 ### Olá, eu sou o Carlos Miguel👋
 
-- 🔭 Estudante do Ensino Médio
-- 🙃 Iniciando na programação
-- 🌱 Estudando HTML, CSS, JavaScript, Python, SQLite e C
-- 📫 Contato: kacowebber12@outlook.com
+- 🔭 Ciencia da Computação / UNESC
+- 🌱 Estudando 
 - 😄 Pronomes: ele/dele
 
 <div align="center">
