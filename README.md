@@ -4,10 +4,10 @@
 Entusiasta da tecnologia e estudante de Ciência da Computação na UNESC. Com um forte interesse em desenvolvimento de software, estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e habilidades. Meu foco principal está no desenvolvimento front-end, especialmente em HTML, CSS e JavaScript, mas também tenho experiência e estudos em linguagem C. Estou comprometido em criar código limpo, eficiente e de alta qualidade.
 
 🎓 Educação: <br>
-• Bacharelado em Ciência da Computação, Universidade do Extremo Sul Catarinense (UNESC) - Atualmente cursando
+• Bacharelado em Ciência da Computação, Universidade do Extremo Sul Catarinense (UNESC) - Atualmente cursando.
 
 💼 Experiência: <br>
-• Técnico em infórmatica, manutenção de computadores, sistemas e impressoras
+• Como técnico de informática, trabalhei por um ano em manutenção de computadores, sistemas, redes e impressoras. Responsabilidades incluíam diagnóstico e resolução de problemas de hardware/software, instalação/configuração de sistemas operacionais e suporte aos usuários. Adquiri habilidades em comunicação e resolução de problemas, fortalecendo minha paixão pela tecnologia.
 
 🚀 Projetos Destacados: <br>
 • Site Portfólio: Em desenvolvimento
