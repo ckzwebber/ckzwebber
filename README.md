@@ -6,19 +6,23 @@ Entusiasta da tecnologia e estudante de Ciência da Computação na UNESC. Com u
 🎓 Educação:
 • Bacharelado em Ciência da Computação, Universidade do Extremo Sul Catarinense (UNESC) - Atualmente cursando
 
-🚀 Projetos Destacados:
+💼 Experiência: <br>
+• Técnico em infórmatica, manutenção de computadores, sistemas e impressoras
+
+🚀 Projetos Destacados: <br>
 • Site Portfólio: Em desenvolvimento
 
-🔧 Principais Tecnologias:
-• HTML
-• CSS
-• JavaScript
-• C
-• Git
+🔧 Principais Tecnologias: <br>
+• HTML <br>
+• CSS <br>
+• JavaScript <br>
+• C <br> 
+• Git <br> 
 
 🏆 Conquistas:
-Conclusão bem-sucedida de cursos renomados, como CS50 da Harvard University e DevTheDevs da PUCRS.
-Recebimento de três menções honrosas na Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP).
+• Conclusão bem-sucedida de cursos renomados, como CS50 da Harvard University e DevTheDevs da PUCRS. <br>
+• Recebimento de três menções honrosas na Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP).
+
 🔗 LinkedIn: https://www.linkedin.com/in/cmiguelwm/
 
 Estou sempre procurando colaborar em projetos interessantes e contribuir para a comunidade de desenvolvimento de software. Sinta-se à vontade para explorar meus repositórios e entrar em contato caso tenha alguma oportunidade de colaboração ou feedback.
