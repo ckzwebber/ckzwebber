@@ -1,8 +1,27 @@
-### Olá, eu sou o Carlos Miguel👋
+👨‍💻 Desenvolvedor de Software | Estudante de Ciência da Computação
 
-- 🔭 Ciencia da Computação / UNESC
-- 🌱 Estudando 
-- 😄 Pronomes: ele/dele
+🌟 Sobre Mim:
+Entusiasta da tecnologia e estudante de Ciência da Computação na UNESC. Com um forte interesse em desenvolvimento de software, estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e habilidades. Meu foco principal está no desenvolvimento front-end, especialmente em HTML, CSS e JavaScript, mas também tenho experiência e estudos em linguagem C. Estou comprometido em criar código limpo, eficiente e de alta qualidade.
+
+🎓 Educação:
+• Bacharelado em Ciência da Computação, Universidade do Extremo Sul Catarinense (UNESC) - Atualmente cursando
+
+🚀 Projetos Destacados:
+• Site Portfólio: Em desenvolvimento
+
+🔧 Principais Tecnologias:
+• HTML
+• CSS
+• JavaScript
+• C
+• Git
+
+🏆 Conquistas:
+Conclusão bem-sucedida de cursos renomados, como CS50 da Harvard University e DevTheDevs da PUCRS.
+Recebimento de três menções honrosas na Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP).
+🔗 LinkedIn: https://www.linkedin.com/in/cmiguelwm/
+
+Estou sempre procurando colaborar em projetos interessantes e contribuir para a comunidade de desenvolvimento de software. Sinta-se à vontade para explorar meus repositórios e entrar em contato caso tenha alguma oportunidade de colaboração ou feedback.
 
 <div align="center">
   <a href="https://github.com/ckzwebber">
