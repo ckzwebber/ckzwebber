@@ -10,7 +10,7 @@ Entusiasta da tecnologia e estudante de Ciência da Computação na UNESC. Com u
 • Como técnico de informática, trabalhei por um ano em manutenção de computadores, sistemas, redes e impressoras. Responsabilidades incluíam diagnóstico e resolução de problemas de hardware/software, instalação/configuração de sistemas operacionais e suporte aos usuários. Adquiri habilidades em comunicação e resolução de problemas, fortalecendo minha paixão pela tecnologia.
 
 🚀 Projetos Destacados: <br>
-• Site Portfólio: Em desenvolvimento
+• Site Portfólio: https://webberportfolio.netlify.app
 
 🔧 Principais Tecnologias: <br>
 • HTML <br>
