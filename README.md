@@ -1,9 +1,9 @@
 👨‍💻 Desenvolvedor de Software | Estudante de Ciência da Computação
 
-🌟 Sobre Mim:
+🌟 Sobre Mim: <br>
 Entusiasta da tecnologia e estudante de Ciência da Computação na UNESC. Com um forte interesse em desenvolvimento de software, estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e habilidades. Meu foco principal está no desenvolvimento front-end, especialmente em HTML, CSS e JavaScript, mas também tenho experiência e estudos em linguagem C. Estou comprometido em criar código limpo, eficiente e de alta qualidade.
 
-🎓 Educação:
+🎓 Educação: <br>
 • Bacharelado em Ciência da Computação, Universidade do Extremo Sul Catarinense (UNESC) - Atualmente cursando
 
 💼 Experiência: <br>
@@ -19,7 +19,7 @@ Entusiasta da tecnologia e estudante de Ciência da Computação na UNESC. Com u
 • C <br> 
 • Git <br> 
 
-🏆 Conquistas:
+🏆 Conquistas: <br>
 • Conclusão bem-sucedida de cursos renomados, como CS50 da Harvard University e DevTheDevs da PUCRS. <br>
 • Recebimento de três menções honrosas na Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP).
 
