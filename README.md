@@ -34,7 +34,7 @@ Estou sempre procurando colaborar em projetos interessantes e contribuir para a 
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
-
+<br><br>
 <div align="center">
   <a href="https://github.com/ckzwebber">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckzwebber&layout=compact&langs_count=7&theme=radical"/>
