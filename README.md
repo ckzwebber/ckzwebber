@@ -29,9 +29,9 @@ Estou sempre procurando colaborar em projetos interessantes e contribuir para a 
 
 <div align="center">
   <a href="https://github.com/ckzwebber">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=ckzwebber&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckzwebber&layout=compact&langs_count=7&theme=radical"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=ckzwebber&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <br>
 </div>
   
 <div style="display: inline_block"><br>
