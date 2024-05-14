@@ -1,7 +1,7 @@
 👨‍💻 Desenvolvedor de Software | Estudante de Ciência da Computação
 
 🌟 Sobre Mim: <br>
-Entusiasta da tecnologia e estudante de Ciência da Computação na UNESC. Com um forte interesse em desenvolvimento de software, estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e habilidades. Meu foco principal está no desenvolvimento front-end, especialmente em HTML, CSS e JavaScript, mas também tenho experiência e estudos em linguagem C. Estou comprometido em criar código limpo, eficiente e de alta qualidade.
+Entusiasta da tecnologia e estudante de Ciência da Computação na UNESC. Com um forte interesse em desenvolvimento de software, estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e habilidades. Meu foco principal está no desenvolvimento front-end, especialmente em HTML, CSS e JavaScript, mas também tenho experiência e estudos em linguagem C e C#. Estou comprometido em criar código limpo, eficiente e de alta qualidade.
 
 🎓 Educação: <br>
 • Bacharelado em Ciência da Computação, Universidade do Extremo Sul Catarinense (UNESC) - Atualmente cursando.
@@ -16,11 +16,18 @@ Entusiasta da tecnologia e estudante de Ciência da Computação na UNESC. Com u
 • HTML <br>
 • CSS <br>
 • JavaScript <br>
+• Git e GitHub <br> 
 • C <br> 
-• Git <br> 
+• C# <br>
+• .NET <br>
+• Programação Orientada a Objetos (POO) <br>
+• Banco de Dados | SQL <br>
+• APIs <br>
+• Docker <br>
+• Entity Framework <br>
 
 🏆 Conquistas: <br>
-• Conclusão bem-sucedida de cursos renomados, como CS50 da Harvard University e DevTheDevs da PUCRS. <br>
+• Conclusão bem-sucedida de cursos renomados, como CS50 da Harvard University, DevTheDevs da PUCRS e o Bootcamp .NET Developer (DIO) . <br>
 • Recebimento de três menções honrosas na Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP).
 
 🔗 LinkedIn: https://www.linkedin.com/in/cmiguelwm/
@@ -31,8 +38,13 @@ Estou sempre procurando colaborar em projetos interessantes e contribuir para a 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+          
 </div>
 <br><br>
 <div align="center">
