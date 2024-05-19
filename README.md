@@ -1,36 +1,37 @@
-👨‍💻 Desenvolvedor de Software | Estudante de Ciência da Computação
+# 👨‍💻 Desenvolvedor de Software | Estudante de Ciência da Computação
 
-🌟 Sobre Mim: <br>
+## 🌟 Sobre Mim
 Entusiasta da tecnologia e estudante de Ciência da Computação na UNESC. Com um forte interesse em desenvolvimento de software, estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e habilidades. Meu foco principal está no desenvolvimento front-end, especialmente em HTML, CSS e JavaScript, mas também tenho experiência e estudos em linguagem C e C#. Estou comprometido em criar código limpo, eficiente e de alta qualidade.
 
-🎓 Educação: <br>
-• Bacharelado em Ciência da Computação, Universidade do Extremo Sul Catarinense (UNESC) - Atualmente cursando.
+## 🎓 Educação
+- **Bacharelado em Ciência da Computação**, Universidade do Extremo Sul Catarinense (UNESC) - Atualmente cursando.
 
-💼 Experiência: <br>
-• Como técnico de informática, trabalhei por um ano em manutenção de computadores, sistemas, redes e impressoras. Responsabilidades incluíam diagnóstico e resolução de problemas de hardware/software, instalação/configuração de sistemas operacionais e suporte aos usuários. Adquiri habilidades em comunicação e resolução de problemas, fortalecendo minha paixão pela tecnologia.
+## 💼 Experiência
+- **Técnico de Informática**: Trabalhei por um ano em manutenção de computadores, sistemas, redes e impressoras. Responsabilidades incluíam diagnóstico e resolução de problemas de hardware/software, instalação/configuração de sistemas operacionais e suporte aos usuários. Adquiri habilidades em comunicação e resolução de problemas, fortalecendo minha paixão pela tecnologia.
 
-🚀 Projetos Destacados: <br>
-• Site Portfólio: https://webberportfolio.netlify.app
+## 🚀 Projetos Destacados
+- **Site Portfólio**: [https://webberportfolio.netlify.app](https://webberportfolio.netlify.app)
 
-🔧 Principais Tecnologias: <br>
-• HTML <br>
-• CSS <br>
-• JavaScript <br>
-• Git e GitHub <br> 
-• C <br> 
-• C# <br>
-• .NET <br>
-• Programação Orientada a Objetos (POO) <br>
-• Banco de Dados | SQL <br>
-• APIs <br>
-• Docker <br>
-• Entity Framework <br>
+## 🔧 Principais Tecnologias
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Git e GitHub**
+- **C**
+- **C#**
+- **.NET**
+- **Programação Orientada a Objetos (POO)**
+- **Banco de Dados | SQL**
+- **APIs**
+- **Docker**
+- **Entity Framework**
 
-🏆 Conquistas: <br>
-• Conclusão bem-sucedida de cursos renomados, como CS50 da Harvard University, DevTheDevs da PUCRS e o Bootcamp .NET Developer (DIO) . <br>
-• Recebimento de três menções honrosas na Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP).
+## 🏆 Conquistas
+- Conclusão bem-sucedida de cursos renomados, como CS50 da Harvard University, DevTheDevs da PUCRS e o Bootcamp .NET Developer (DIO).
+- Recebimento de três menções honrosas na Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP).
 
-🔗 LinkedIn: https://www.linkedin.com/in/cmiguelwm/
+## 🔗 Contatos
+- **LinkedIn**: [https://www.linkedin.com/in/cmiguelwm/](https://www.linkedin.com/in/cmiguelwm/)
 
 Estou sempre procurando colaborar em projetos interessantes e contribuir para a comunidade de desenvolvimento de software. Sinta-se à vontade para explorar meus repositórios e entrar em contato caso tenha alguma oportunidade de colaboração ou feedback.
 
@@ -44,7 +45,6 @@ Estou sempre procurando colaborar em projetos interessantes e contribuir para a 
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-          
 </div>
 <br><br>
 <div align="center">
@@ -54,7 +54,7 @@ Estou sempre procurando colaborar em projetos interessantes e contribuir para a 
 </div>
   
 ##
-  
+
 <div align="center">
   <a href="https://www.linkedin.com/in/cmiguelwm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/ckzwebber" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
