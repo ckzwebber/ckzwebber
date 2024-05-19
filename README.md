@@ -1,6 +1,8 @@
 ## 👨‍💻 Desenvolvedor de Software | Estudante de Ciência da Computação
+<br>
 
 ## 🌟 Sobre Mim
+<br>
 Entusiasta da tecnologia e estudante de Ciência da Computação na UNESC. Com um forte interesse em desenvolvimento de software, estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e habilidades. Meu foco principal está no desenvolvimento front-end, especialmente em HTML, CSS e JavaScript, mas também tenho experiência e estudos em linguagem C e C#. Estou comprometido em criar código limpo, eficiente e de alta qualidade.
 
 ## 🎓 Educação
