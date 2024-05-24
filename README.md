@@ -1,40 +1,14 @@
-## 👨‍💻 Desenvolvedor de Software | Estudante de Ciência da Computação
+## 👨‍💻 Desenvolvedor Front-End 
 
 ## 🌟 Sobre Mim
-Apaixanado pela tecnologia e estudante de Ciência da Computação na UNESC. Com um forte interesse em desenvolvimento de software, estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e habilidades. Meu foco principal está no desenvolvimento front-end, especialmente em HTML, CSS e JavaScript, mas também tenho experiência e estudos em linguagem C e C#.
-
-## 🎓 Educação
-- **Bacharelado em Ciência da Computação**, Universidade do Extremo Sul Catarinense (UNESC) - Atualmente cursando.
-
-## 💼 Experiência
-- **Técnico de Informática**: Trabalhei por um ano em manutenção de computadores, sistemas, redes e impressoras. Responsabilidades incluíam diagnóstico e resolução de problemas de hardware/software, instalação/configuração de sistemas operacionais e suporte aos usuários. Adquiri habilidades em comunicação e resolução de problemas, fortalecendo minha paixão pela tecnologia.
+Olá, me chamo Carlos Miguel, sou estudante de Ciência da Computação na UNESC e desenvolvedor front-end. Atualmente estou criando projetos com intuito de me aprofundar na programação web e iniciando meus estudos em back-end!
 
 ## 🚀 Projetos Destacados
 - **Site Portfólio**: [https://webberportfolio.netlify.app](https://webberportfolio.netlify.app)
 
+Fique a vontade para dar uma olhada e coloborar em meus projetos. Deixe seu feedback!
+
 ## 🔧 Principais Tecnologias
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Git e GitHub**
-- **C**
-- **C#**
-- **.NET**
-- **Programação Orientada a Objetos (POO)**
-- **Banco de Dados | SQL**
-- **APIs**
-- **Docker**
-- **Entity Framework**
-
-## 🏆 Conquistas
-- Conclusão bem-sucedida de cursos renomados, como CS50 da Harvard University, DevTheDevs da PUCRS e o Bootcamp .NET Developer (DIO).
-- Recebimento de três menções honrosas na Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP).
-
-## 🔗 Contatos
-- **LinkedIn**: [https://www.linkedin.com/in/cmiguelwm/](https://www.linkedin.com/in/cmiguelwm/)
-
-Estou sempre procurando colaborar em projetos interessantes e contribuir para a comunidade de desenvolvimento de software. Sinta-se à vontade para explorar meus repositórios e entrar em contato caso tenha alguma oportunidade de colaboração ou feedback.
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
