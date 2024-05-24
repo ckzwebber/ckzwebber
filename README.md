@@ -1,6 +1,6 @@
 <h1>👨‍💻 Desenvolvedor Front-End </h1>
 
-🌟 Sobre Mim: <br>
+👋 Sobre Mim: <br>
 Olá, me chamo Carlos Miguel, sou estudante de Ciência da Computação na UNESC e desenvolvedor front-end. Atualmente estou criando projetos com intuito de me aprofundar na programação web e iniciando meus estudos em back-end!
 
 🚀 Projetos Destacados:
