@@ -1,12 +1,12 @@
 <h1>👨‍💻 Desenvolvedor Front-End </h1>
 
 👋 Sobre Mim: <br>
-Olá, me chamo Carlos Miguel, sou estudante de Ciência da Computação na UNESC e desenvolvedor front-end. Atualmente estou criando projetos com intuito de me aprofundar na programação web e iniciando meus estudos em back-end!
+Olá, me chamo Carlos Miguel, sou estudante de Ciência da Computação na UNESC e desenvolvedor front-end. Estou criando projetos frontend e iniciando meus estudos em backend!
 
 🚀 Projetos Destacados:
 - **Site Portfólio**: [https://webberportfolio.netlify.app](https://webberportfolio.netlify.app)
 
-Fique a vontade para dar uma olhada e coloborar em meus projetos. Deixe seu feedback!
+Fique a vontade para dar uma olhada e coloborar nos repositórios. Deixe seu feedback!
 
 🔧 Principais Tecnologias:
 <div align="center" style="display: inline_block"><br>
