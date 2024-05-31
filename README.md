@@ -1,7 +1,7 @@
-<h1>👨‍💻 Desenvolvedor Front-End </h1>
+<h1>👨‍💻 Desenvolvedor Fullstack </h1>
 
 👋 Sobre Mim: <br>
-Olá, me chamo Carlos Miguel, sou estudante de Ciência da Computação na UNESC e desenvolvedor front-end. Estou criando projetos frontend e iniciando meus estudos em backend!
+Olá, me chamo Carlos Miguel, sou estudante de Ciência da Computação na UNESC e desenvolvedor fullstack. Estou criando projetos frontend e iniciando meus estudos em backend!
 
 🚀 Projetos Destacados:
 - **Site Portfólio**: [https://webberportfolio.netlify.app](https://webberportfolio.netlify.app)
