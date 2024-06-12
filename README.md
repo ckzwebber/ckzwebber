@@ -23,12 +23,12 @@ Fique a vontade para dar uma olhada e coloborar nos repositórios. Deixe seu fee
   
 </div>
 <br><br>
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ckzwebber">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckzwebber&layout=compact&langs_count=7&theme=radical"/>
     <br>
 </div>
-<br>
+<br> -->
 <div align="center">
   <a href="https://www.linkedin.com/in/cmiguelwm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/ckzwebber" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
