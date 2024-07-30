@@ -6,6 +6,8 @@ Olá, me chamo Carlos Miguel, sou estudante de Ciência da Computação na UNESC
 🚀 Projetos Destacados:
 - **Site Portfólio**: [https://webberportfolio.netlify.app](https://webberportfolio.netlify.app)
 - **Lamborghini Project**: [https://webberlamborghini.netlify.app/](https://webberlamborghini.netlify.app/)
+- **WalletWatch**: [https://github.com/ckzwebber/WalletWatch](https://github.com/ckzwebber/WalletWatch)
+
 
 Fique a vontade para dar uma olhada e coloborar nos repositórios. Deixe seu feedback!
 
