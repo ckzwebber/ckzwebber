@@ -6,7 +6,8 @@ Olá, me chamo Carlos Miguel, sou estudante de Ciência da Computação na UNESC
 🚀 Projetos Destacados:
 - **Site Portfólio**: [https://webberportfolio.netlify.app](https://webberportfolio.netlify.app)
 - **Lamborghini Project**: [https://webberlamborghini.netlify.app/](https://webberlamborghini.netlify.app/)
-- **JSClock**: [https://webberjsclock.netlify.app](https://webberjsclock.netlify.app)
+- **Timer**: [https://webbertimer.netlify.app/](https://webbertimer.netlify.app/)
+- **JSClock**: [https://webberjsclock.netlify.app](https://webberclock.netlify.app/)
 - **Node-API**: [https://github.com/ckzwebber/Node-API](https://github.com/ckzwebber/Node-API)
 - **WalletWatch**: [https://github.com/ckzwebber/WalletWatch](https://github.com/ckzwebber/WalletWatch)
 
