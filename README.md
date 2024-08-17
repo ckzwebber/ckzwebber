@@ -4,12 +4,12 @@
 Olá, me chamo Carlos Miguel, sou estudante de Ciência da Computação na UNESC e desenvolvedor fullstack. Estou criando projetos frontend e iniciando meus estudos em backend!
 
 🚀 Projetos Destacados:
-- **Site Portfólio**: [https://webberportfolio.netlify.app](https://webberportfolio.netlify.app)
-- **Lamborghini Project**: [https://webberlamborghini.netlify.app/](https://webberlamborghini.netlify.app/)
-- **Timer**: [https://webbertimer.netlify.app/](https://webbertimer.netlify.app/)
-- **JSClock**: [https://webberjsclock.netlify.app](https://webberclock.netlify.app/)
-- **Node-API**: [https://github.com/ckzwebber/Node-API](https://github.com/ckzwebber/Node-API)
-- **WalletWatch**: [https://github.com/ckzwebber/WalletWatch](https://github.com/ckzwebber/WalletWatch)
+- **Site Portfólio**: [https://webberportfolio.netlify.app](https://webberportfolio.netlify.app){:target="_blank"}
+- **Lamborghini Project**: [https://webberlamborghini.netlify.app/](https://webberlamborghini.netlify.app/){:target="_blank"}
+- **Timer**: [https://webbertimer.netlify.app/](https://webbertimer.netlify.app/){:target="_blank"}
+- **JSClock**: [https://webberjsclock.netlify.app](https://webberjsclock.netlify.app/){:target="_blank"}
+- **Node-API**: [https://github.com/ckzwebber/Node-API](https://github.com/ckzwebber/Node-API){:target="_blank"}
+- **WalletWatch**: [https://github.com/ckzwebber/WalletWatch](https://github.com/ckzwebber/WalletWatch){:target="_blank"}
 
 
 Fique a vontade para dar uma olhada e coloborar nos repositórios. Deixe seu feedback!
