@@ -3,15 +3,8 @@
 👋 Sobre Mim: <br>
 Olá, me chamo Carlos Miguel, sou estudante de Ciência da Computação na UNESC e desenvolvedor fullstack. Estou criando projetos frontend e iniciando meus estudos em backend!
 
-🚀 Projetos Destacados:
+🚀 Confira meus Projetos no portfólio:
 - **Site Portfólio**: <a href="https://webberportfolio.netlify.app" target="_blank">https://webberportfolio.netlify.app</a>
-- **Lamborghini Project**: <a href="https://webberlamborghini.netlify.app/" target="_blank">https://webberlamborghini.netlify.app</a>
-- **GameTracker**: <a href="https://webbergametracker.netlify.app/" target="_blank">https://webbergametracker.netlify.app/</a>
-- **Timer**: <a href="https://webbertimer.netlify.app/" target="_blank">https://webbertimer.netlify.app</a>
-- **JSClock**: <a href="https://webberjsclock.netlify.app" target="_blank">https://webberjsclock.netlify.app</a>
-- **Node-API**: <a href="https://github.com/ckzwebber/Node-API" target="_blank">https://github.com/ckzwebber/Node-API</a>
-- **WalletWatch**: <a href="https://github.com/ckzwebber/WalletWatch" target="_blank">https://github.com/ckzwebber/WalletWatch</a>
-
 
 Fique a vontade para dar uma olhada e coloborar nos repositórios. Deixe seu feedback!
 
