@@ -27,7 +27,12 @@ Fique a vontade para dar uma olhada e coloborar nos repositórios. Deixe seu fee
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 </div>
-<br><br>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckzwebber&layout=compact&theme=dark" alt="Top Langs">
+</div>
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cmiguelwm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
