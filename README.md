@@ -99,7 +99,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ckzwebber&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ckzwebber&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="125" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ckzwebber&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="125" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=ckzwebber&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
