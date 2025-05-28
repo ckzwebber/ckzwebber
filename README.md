@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Carlos Miguel and I'm a Fullstack Web Developer, from Brazil.</p>
+<p align="left">My name is Carlos Miguel and I'm a Fullstack Web Developer, from Brazil 🇧🇷</p>
 
 ###
 
