@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Carlos Miguel and I'm a Fullstack Web Developer, from Brazil 🇧🇷</p>
+<p align="left">My name is Carlos Miguel and I'm a Backend Developer, from Brazil 🇧🇷</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning web development<br>🎯 Studying Computer Science at UNESC</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning and working with backend development<br>🎯 Studying Computer Science at UNESC</p>
 
 ###
 
