@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Carlos Miguel 👋</h1>
 
 ###
 
-<p align="left">My name is Carlos Miguel and I'm a Backend Developer, from Brazil 🇧🇷</p>
+<p align="left">Backend Developer · Brazil 🇧🇷</p>
 
 ###
 
@@ -10,11 +10,14 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning and working with backend development<br>🎯 Studying Computer Science at UNESC</p>
+<p align="left">
+  Fullstack Developer at La Moda, working with integrations, RESTful APIs and scalable web applications.<br>
+  CS Student at UNESC, currently developing my undergraduate thesis: a real-time energy monitoring system using ESP32 and NestJS.<br>
+  Focused on backend architecture, TDD and cloud infrastructure.
+</p>
 
 ###
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ckzwebber.ckzwebber&right_color=darkred&left_text=Visitors%20%F0%9F%94%A5"  />
 <div>
   <a href="https://www.linkedin.com/in/cmiguelwm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://webberportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
