@@ -97,18 +97,6 @@
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ckzwebber&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="125" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ckzwebber&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ckzwebber&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="250" alt="activity-graph graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ckzwebber/ckzwebber/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ckzwebber/ckzwebber/output/pacman-contribution-graph.svg">
