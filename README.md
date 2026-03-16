@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-  Fullstack Developer at La Moda, working with integrations, RESTful APIs and scalable web applications.<br>
+  Backend Developer at La Moda, working with integrations, RESTful APIs and scalable web applications.<br>
   CS Student at UNESC, currently developing my undergraduate thesis: a real-time energy monitoring system using ESP32 and NestJS.<br>
   Focused on backend architecture, TDD and cloud infrastructure.
 </p>
